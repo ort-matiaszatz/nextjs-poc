@@ -24,6 +24,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <Card tags={['hola', 'chau']} />
+          <Card tags={['winter', 'summerlife']} />
         </div>
       </main>
 
